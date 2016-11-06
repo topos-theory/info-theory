@@ -1,0 +1,37 @@
+* agenda
+  - intro to preskill talk: https://youtu.be/bPNlWTPLeqo?t=2m19s
+  - nielsen qubits: https://youtu.be/X2q1PuI2RFI?t=59s
+  - nielsen entanglement: https://www.youtube.com/watch?v=aRglXdLI7KY
+* notes
+  - TODO
+* questions
+  - mathematical representation of preskill balls?
+  - why is quantum copying impossible?
+  - how many possible bell states?
+  - mathematical representation of entanglement?
+  - how does the beaver error correct? classically? quantumly?
+  - explain topological quantum computer?
+* followup avenues
+  - computing
+    - rigetti computing are bay-area startup working on building QC; excellent blog post detailing the full-stack spec
+      - https://medium.com/@rigetticomputing/the-quantum-software-challenge-1a86eec1ce47#.3yv
+    - simulation of quantum systems; simulation of a compiler
+      - http://www.quantumplayground.net/#/playground/5080491044634624
+    - libraries for performing quantum computations
+      - https://github.com/jtauber/quantumpy/blob/master/quantum.py
+      - http://nbviewer.jupyter.org/github/jrjohansson/qutip-lectures/blob/master/Lecture-0-Introduction-to-QuTiP.ipynb
+    - shor's algorithm explanation
+      - http://www.scottaaronson.com/blog/?p=208
+  - information
+    - more detailed, technical preskill talk on quantum information
+      - https://www.youtube.com/watch?v=Q4xBlSi_fOs
+    - nielsen's full course
+      - https://www.youtube.com/watch?v=X2q1PuI2RFI&list=PL1826E60FD05B44E4
+    - shor's algorithm explanation
+      - http://www.scottaaronson.com/blog/?p=208
+  - physics
+    - preskill's presentation of theory that spacetime geometry emerges from quantum entanglement effects
+      - https://www.youtube.com/watch?v=MuklWupCvWU
+    - seth lloyd's talk on deriving general relativity from quantum measurements (more technical)
+      - https://www.youtube.com/watch?v=t9zcBKoFrME
+    - tons of followup work
